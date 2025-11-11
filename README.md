@@ -84,7 +84,7 @@ The **Foodpanda Taiwan market analysis** reveals actionable patterns in consumer
 
   These patterns indicate that customers in central Taipei often order from nearby commercial zones, possibly due to **commuting habits, workplace proximity, or popular dining areas**.  
 - **Underserved areas (high demand–low supply):**
-  - **Taoyuan:** Guishan (261), Nangang (116.4), Luzhu (45)
+  - **Taoyuan:** Guishan, Nangang, Luzhu 
   - **New Taipei:** Shenkeng, Taishan, Shulin  
 - **Balanced areas:** Zhongzheng, Songshan, Zhongshan
 
