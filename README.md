@@ -75,8 +75,9 @@ The **Foodpanda Taiwan market analysis** reveals actionable patterns in consumer
 - **Order distribution:** 64.6% local (same district), 35.4% cross-region (average distance: 4.87 km)  
 - **Top 3 cross-region order origins:** Zhongzheng District, Wanhua District, Zhongshan District  
 - **Customer–vendor flow patterns:**  
+
 | Customer District | Vendor Districts |
-|--------------------|--------------------------|
+|-------------------|------------------|
 | Zhongzheng | Xinyi |
 | Wanhua | Xinzhuang, Zhongzheng |
 | Zhongshan | Zhongzheng |
